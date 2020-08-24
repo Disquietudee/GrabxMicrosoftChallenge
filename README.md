@@ -1,11 +1,11 @@
-#Grab x Microsoft Challenge (AI)
+# Grab x Microsoft Challenge (AI)
 
 
-Problem Statement 
+## Problem Statement 
 
 With the resources of telematics data for each trip and the label which classify whether the trip is considered dangerous. Derive a model that can detect driving trips 
 
-Understand the dataset
+## Understand the dataset
 
 For the telematics data for each trip, it possesses the information about the following features/columns.
 
